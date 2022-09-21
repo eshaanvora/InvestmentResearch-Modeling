@@ -1,7 +1,8 @@
 # InvestmentResearch-Modeling
 This repo contains a sample of my professional-level investment research, including non-confidential materials prepared for the JFC Financial Residency program. For confidentiality purposes, valuation modeling files will not be uploaded.
 
-## File List (Total number of PDF files: 11)
+## File List 
+### (Total number of PDF files: 11)
 
 * ALLE_Report.pdf
 * CHKP_BuyRecommendation.pdf
